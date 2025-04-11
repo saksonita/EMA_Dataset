@@ -1,4 +1,4 @@
-# EMA_Dataset
+# SmartFarm_Dataset
 
 This repository contains datasets used in the analysis for the paper. *(Paper details to be updated later.)*
 
